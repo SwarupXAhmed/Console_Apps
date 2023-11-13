@@ -1,0 +1,16 @@
+C:\Users\2013.103602\Desktop\Functions\WinFormsApps\Labels\bin\Debug\net6.0-windows\Labels.exe
+C:\Users\2013.103602\Desktop\Functions\WinFormsApps\Labels\bin\Debug\net6.0-windows\Labels.deps.json
+C:\Users\2013.103602\Desktop\Functions\WinFormsApps\Labels\bin\Debug\net6.0-windows\Labels.runtimeconfig.json
+C:\Users\2013.103602\Desktop\Functions\WinFormsApps\Labels\bin\Debug\net6.0-windows\Labels.dll
+C:\Users\2013.103602\Desktop\Functions\WinFormsApps\Labels\bin\Debug\net6.0-windows\Labels.pdb
+C:\Users\2013.103602\Desktop\Functions\WinFormsApps\Labels\obj\Debug\net6.0-windows\Labels.Form1.resources
+C:\Users\2013.103602\Desktop\Functions\WinFormsApps\Labels\obj\Debug\net6.0-windows\Labels.csproj.GenerateResource.cache
+C:\Users\2013.103602\Desktop\Functions\WinFormsApps\Labels\obj\Debug\net6.0-windows\Labels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2013.103602\Desktop\Functions\WinFormsApps\Labels\obj\Debug\net6.0-windows\Labels.AssemblyInfoInputs.cache
+C:\Users\2013.103602\Desktop\Functions\WinFormsApps\Labels\obj\Debug\net6.0-windows\Labels.AssemblyInfo.cs
+C:\Users\2013.103602\Desktop\Functions\WinFormsApps\Labels\obj\Debug\net6.0-windows\Labels.csproj.CoreCompileInputs.cache
+C:\Users\2013.103602\Desktop\Functions\WinFormsApps\Labels\obj\Debug\net6.0-windows\Labels.dll
+C:\Users\2013.103602\Desktop\Functions\WinFormsApps\Labels\obj\Debug\net6.0-windows\refint\Labels.dll
+C:\Users\2013.103602\Desktop\Functions\WinFormsApps\Labels\obj\Debug\net6.0-windows\Labels.pdb
+C:\Users\2013.103602\Desktop\Functions\WinFormsApps\Labels\obj\Debug\net6.0-windows\Labels.genruntimeconfig.cache
+C:\Users\2013.103602\Desktop\Functions\WinFormsApps\Labels\obj\Debug\net6.0-windows\ref\Labels.dll

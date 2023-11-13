@@ -1,0 +1,16 @@
+C:\Users\2013.103602\Desktop\Functions\win forum apps\win forum apps\bin\Debug\net6.0-windows\win forum apps.exe
+C:\Users\2013.103602\Desktop\Functions\win forum apps\win forum apps\bin\Debug\net6.0-windows\win forum apps.deps.json
+C:\Users\2013.103602\Desktop\Functions\win forum apps\win forum apps\bin\Debug\net6.0-windows\win forum apps.runtimeconfig.json
+C:\Users\2013.103602\Desktop\Functions\win forum apps\win forum apps\bin\Debug\net6.0-windows\win forum apps.dll
+C:\Users\2013.103602\Desktop\Functions\win forum apps\win forum apps\bin\Debug\net6.0-windows\win forum apps.pdb
+C:\Users\2013.103602\Desktop\Functions\win forum apps\win forum apps\obj\Debug\net6.0-windows\win_forum_apps.Form1.resources
+C:\Users\2013.103602\Desktop\Functions\win forum apps\win forum apps\obj\Debug\net6.0-windows\win forum apps.csproj.GenerateResource.cache
+C:\Users\2013.103602\Desktop\Functions\win forum apps\win forum apps\obj\Debug\net6.0-windows\win forum apps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2013.103602\Desktop\Functions\win forum apps\win forum apps\obj\Debug\net6.0-windows\win forum apps.AssemblyInfoInputs.cache
+C:\Users\2013.103602\Desktop\Functions\win forum apps\win forum apps\obj\Debug\net6.0-windows\win forum apps.AssemblyInfo.cs
+C:\Users\2013.103602\Desktop\Functions\win forum apps\win forum apps\obj\Debug\net6.0-windows\win forum apps.csproj.CoreCompileInputs.cache
+C:\Users\2013.103602\Desktop\Functions\win forum apps\win forum apps\obj\Debug\net6.0-windows\win forum apps.dll
+C:\Users\2013.103602\Desktop\Functions\win forum apps\win forum apps\obj\Debug\net6.0-windows\refint\win forum apps.dll
+C:\Users\2013.103602\Desktop\Functions\win forum apps\win forum apps\obj\Debug\net6.0-windows\win forum apps.pdb
+C:\Users\2013.103602\Desktop\Functions\win forum apps\win forum apps\obj\Debug\net6.0-windows\win forum apps.genruntimeconfig.cache
+C:\Users\2013.103602\Desktop\Functions\win forum apps\win forum apps\obj\Debug\net6.0-windows\ref\win forum apps.dll
